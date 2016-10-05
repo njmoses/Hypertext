@@ -1,0 +1,48 @@
+
+
+body {
+	background-color: #ebd5b3;
+	margin: 1em 5em;
+}
+
+h1 {
+	font-family: 'Inconsolata', monospace;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 3em;
+}
+
+p {
+	font-family: 'Inconsolata', monospace;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 3em;
+}
+
+img {
+	width: 400px;
+	/*text-align: center;*/
+		display:block;
+	margin:0 auto;
+}
+
+#soundicon {
+	position: absolute; top: 0; right: 0; text-align: right;
+	padding-right: 1em;
+	padding-top: 1em;
+	width: 300px;
+}
+
+.square{
+	width: 200px;
+	height: 200px;
+	background-color: rgb(15, 184, 173);
+	border: 1px black solid;
+	text-align: center;
+}
+
+
+
+
+
+
